@@ -1,0 +1,43 @@
+         REPORT
+
+        Project- 
+Construction Management Software
+
+1..Rohit Dhavale---------22 Form Completed
+        1.login
+        2.dashbord
+        3.new inquiry
+        4.processing inquiry
+        5.closed inquiry
+        6.confirm inquiry
+        7.add customer
+        8.customer list
+        9.new sale flat shop
+        10.report flat shop sale
+        11.deadline report
+        12.new rent flat shop
+        13.report flat shop rent
+        14.add new flat shop
+        15.flat shop list
+        16.add new employee
+        17.employee list
+        18.contractor
+        19.issue stock
+        20.issue stock report
+        21.sale stock
+        22.sale stock report
+
+
+2..Akash Bora------------7 Form Completed
+        1.vendor payment
+        2.customer payment
+        3.new maintenance
+        4.pending maintenance
+        5.Complete maintenance
+        6.add payout expence
+        7.payout expence report
+         
+
+3..Rushikesh Bhingare----0 Form 
+4..Rutuja Berad----------0 Form
+5..Kshitija Wavare-------0 Form
